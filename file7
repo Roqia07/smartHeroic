@@ -1,0 +1,41 @@
+// documentation
+ ls:
+use : $ls
+fn: lists the files in a directory
+
+mkdir:
+ use :$ mkdir directory1
+fn : cretes directories
+
+cd:
+ use: $ cd directory1
+fn: opens that directory
+
+pwd:
+ use :$ pwd
+fn: prints which dir you're working in
+
+rm:
+use: $ rmdir directory1
+/or $ rm file.txt
+fn: removes texts or directories
+
+touch:
+use: $touch file.py
+fn: creates files with various extensions
+ 
+nano:
+use nano file.py
+fn: opens the created files
+
+cat:
+use $ cat file.py
+fn: concatenates and displays the file
+
+cp:
+use: $cp file.py file2.py
+fn: copies files 
+
+mv:
+use: $mv file.py newLoc/
+fn: Moves files or directories
