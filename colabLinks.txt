@@ -1,0 +1,11 @@
+//Task 4.1: Understanding The Weather
+
+https://colab.research.google.com/drive/1ZXRzibHLHV9Tx0hIGlLeIJehnWr7Xjcf
+
+//Task 4.3: Predicting The Weather
+
+https://colab.research.google.com/drive/18EAvu4-cXua1zDW2c7DBRH7H9F32rCYs
+
+// bonus
+
+https://colab.research.google.com/drive/1Z6diDtEa36yiFoS070EL6iyNrwL4qQAq
