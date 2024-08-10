@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 bool search(int n,float arr[], float target){    // searches for the target
     bool found=false;
     for(int i=0;i<n;i++)

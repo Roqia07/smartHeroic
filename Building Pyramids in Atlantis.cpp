@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 void pyramid(int n){
     for (int i=1;i<=n;i++){
     string stars(i, '*');

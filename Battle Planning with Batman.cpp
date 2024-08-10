@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 void compare(int justice[][10],int villains[][10],int r,int c){
     int justWins=0,villainsWins=0,ties=0;
     for (int i=0; i<r;i++){
