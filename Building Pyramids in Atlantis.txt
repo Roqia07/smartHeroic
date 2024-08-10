@@ -1,0 +1,17 @@
+void pyramid(int n){
+    for (int i=1;i<=n;i++){
+    string stars(i, '*');
+    cout<< stars<<endl;
+    }
+    
+}
+
+int main() {
+       int n=0;
+    while (n==0){
+        
+      cin>>n;  
+    }
+    pyramid(n);
+   return 0;
+}
